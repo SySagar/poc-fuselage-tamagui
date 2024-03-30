@@ -27452,7 +27452,7 @@ var require_cjs21 = __commonJS({
   }
 });
 
-// src/tamagui.config.ts
+// tamagui.config.ts
 var tamagui_config_exports = {};
 __export(tamagui_config_exports, {
   default: () => tamagui_config_default
@@ -46451,7 +46451,7 @@ var Text3 = (0, import_core57.styled)(import_core57.Text, {
 // node_modules/tamagui/dist/esm/index.mjs
 var import_core58 = require("@tamagui/core");
 
-// src/tamagui.config.ts
+// tamagui.config.ts
 var animations = createAnimations({
   bouncy: {
     type: "spring",

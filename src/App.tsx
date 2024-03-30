@@ -3,7 +3,7 @@ import { TamaguiProvider} from '@tamagui/core';
 import {SelectDemo} from './lib/Select'
 import './App.css'
 
-import config from './tamagui.config'
+import config from '../tamagui.config'
 
 // type Conf = typeof tamaguiConfig
 // declare module '@tamagui/core' {
