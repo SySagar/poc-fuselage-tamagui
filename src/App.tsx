@@ -5,11 +5,6 @@ import './App.css'
 
 import config from '../tamagui.config'
 
-// type Conf = typeof tamaguiConfig
-// declare module '@tamagui/core' {
-//   interface TamaguiCustomConfig extends Conf {}
-// }
-
 function App() {
   
   return (
